@@ -8,4 +8,4 @@
 
 
 >## 어려운 파트 나머지 공부
-> - [포인터]()
+> - [포인터](https://github.com/dnjsrb0710/C-language/blob/master/pointer.md)
