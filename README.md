@@ -1,5 +1,7 @@
 # C-language
 
+### EECS201 C프로그래밍과실습/ 2019년 여름계절 / 이경숙
+
 >## Final project
 >#### 영화 예매 프로그램 만들기 <br>
 > - 완성 코드 : [code](https://github.com/dnjsrb0710/C-language/blob/master/c%EC%96%B8%EC%96%B4/practice.c)
